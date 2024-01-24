@@ -1,0 +1,18 @@
+#chang-view, #chang-zoom {
+    position: absolute;
+    display: block;
+    z-index: 99;
+    left: 12%;
+    top: 12%;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border: 1px solid ;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: rgba(205, 209, 212, 0.917) 0px 8px 24px;
+}
+#chang-zoom{
+    left: 12%;
+    top: 18%;
+}

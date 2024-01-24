@@ -1,0 +1,19 @@
+{
+  "name": "solar-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.11.2",
+    "satellite.js": "^4.1.4",
+    "three": "^0.144.0",
+    "tle.js": "^4.7.2"
+  }
+}
